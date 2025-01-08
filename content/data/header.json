@@ -4,5 +4,16 @@
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": "Andrew (Drew) Blandford"
+    "title": "Andrew (Drew) Blandford",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/hero2.svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }
