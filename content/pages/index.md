@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Marketing Major
+      text: MarketingMajor
       color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
